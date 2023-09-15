@@ -1,0 +1,30 @@
+h1{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-image: url('https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0a1db3096d07161e/62fbbfa5a9f0523244b0adbd/GettyImages-1231585606.jpg');
+    text-align: center;
+}
+
+button{
+    width: 150px; 
+    height: 70px; 
+    font-size: 20px;
+    background-color: green;
+    border-color:whitesmoke ;
+    border-radius: 10px;
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.palmeiras {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding-bottom: 20px; 
+}
